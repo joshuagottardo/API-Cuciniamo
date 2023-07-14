@@ -1,0 +1,49 @@
+{
+    "prodotti":[
+        
+        {
+            "id": "825",
+            "barcode_id": "8012345000012",
+            "category": "bevande",
+            "name": "Coca Cola",
+            "brand": "Coca Cola",
+            "description": "coca cola",
+            "price": "1,19",
+            "is_vegan": "1",
+            "is_gluten_free": "1",
+            "weight": "1,5L",
+            "expiry_date": "2024/05/01",
+            "location": "f"
+        },
+
+        {
+            "id": "920",
+            "barcode_id": "8012345000012",
+            "category": "bevande",
+            "name": "Latte parzialmente scremato",
+            "brand": "Accadì",
+            "description": "Latte parzialmente scremato a lunga conservazione",
+            "price": "0,99",
+            "is_vegan": "1",
+            "is_gluten_free": "1",
+            "weight": "1L",
+            "expiry_date": "2023/07/09",
+            "location": "f"
+        },
+
+        {
+            "id": "3414",
+            "barcode_id": "8012345000012",
+            "category": "panna e preparati",
+            "name": "Panna Accadì Senza Lattosio",
+            "brand": "Accadì",
+            "description": "panna da cucina senza lattosio",
+            "price": "0,89",
+            "is_vegan": "1",
+            "is_gluten_free": "1",
+            "weight": "250ml",
+            "expiry_date": "2023/07/30",
+            "location": "f"
+        }
+    ]
+}
