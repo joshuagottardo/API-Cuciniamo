@@ -1,0 +1,18 @@
+{
+    "prodotti": [
+        {
+            "id": "176",
+            "barcode_id": "8012345000012",
+            "category": "gelati",
+            "name": "Cornetto Classico",
+            "brand": "Algida",
+            "description": "cornetto panna e cioccolato",
+            "price": "2,99",
+            "is_vegan": "1",
+            "is_gluten_free": "1",
+            "weight": "100g",
+            "expiry_date": "2024/01/01",
+            "location": "fr"
+        }
+    ]
+}
